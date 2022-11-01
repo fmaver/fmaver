@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Francisco</h1>
 <h3 align="center">student of Information Systems Engineering from Buenos Aires.</h3>
 
-- 💻 Im currently learning Python through  <a href="https://www.pluralsight.com/%22%3EPluralsight</a>
-- 🌱 During my free time, i enjoy learning HTML, CSS and Javascript at <a href="https://www.freecodecamp.org/%22%3EFreeCodeCamp</a> 
+- 💻 Im currently learning Python through  <a href="https://www.pluralsight.com/%22%3EPluralsight"</a>
+- 🌱 During my free time, i enjoy learning HTML, CSS and Javascript at <a href="https://www.freecodecamp.org/%22%3EFreeCodeCamp"</a> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
