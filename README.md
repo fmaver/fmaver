@@ -11,8 +11,8 @@ I'm passionate about leveraging data to drive insights and solutions. With a bac
 ### Technologies and Tools
 I'm proficient in a variety of technologies and tools used in the data engineering and software development domains:
 
-- **Programming Languages:** Python, SQL
-- **Big Data Technologies:** Apache Spark, Google Cloud Platform (GCP)
+- **Programming Languages:** Python, SQL, JAVA
+- **Big Data Technologies:** Apache Spark, Google Cloud Platform (GCP), Amazon Web Services (AWS)
 - **Workflow Orchestration:** Apache Airflow
 - **Version Control:** Git
 
