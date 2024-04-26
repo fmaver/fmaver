@@ -1,12 +1,33 @@
-<h1 align="center">Hi 👋, I'm Francisco</h1>
-<h3 align="center">student of Information Systems Engineering from Buenos Aires.</h3>
+<h1 align="center">Hi there! 👋 I'm Francisco Maver</h1>
+<h3 align="center">Student of Information Systems Engineering and Data Engineer from Buenos Aires</h3>
 
-- 💻 Im currently learning Python through  <a href="https://www.pluralsight.com/">Pluralsight</a>
-- 🌱 During my free time, i enjoy learning HTML, CSS and Javascript at <a href="https://www.freecodecamp.org/">FreeCodeCamp</a> 
+### About Me
+I'm passionate about leveraging data to drive insights and solutions. With a background in Information Systems Engineering and hands-on experience as a Data Engineer, I thrive on the challenges of extracting, processing, and analyzing large datasets to derive actionable insights.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/fmaver/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="francisco-maver" height="30" width="40" /></a>
-</p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+- 👨‍💻 Currently working at [Stensul](https://www.stensul.com/) as a Data Engineer, where I collaborate with cross-functional teams to design and implement data pipelines, optimize data workflows, and develop data-driven solutions to support business objectives.
+- 🎓 Studying System Engineering at UTN FRBA, where I'm expanding my knowledge in software development, database management, and system architecture.
+- 💼 Previously worked at Santander Tecnologia and Accenture, where I gained valuable experience in software development, project management, and client engagement.
+
+### Technologies and Tools
+I'm proficient in a variety of technologies and tools used in the data engineering and software development domains:
+
+- **Programming Languages:** Python, SQL
+- **Big Data Technologies:** Apache Spark, Google Cloud Platform (GCP)
+- **Workflow Orchestration:** Apache Airflow
+- **Version Control:** Git
+
+### Learning
+I'm committed to continuous learning and professional development:
+
+- 🌱 Currently expanding my Python skills through [Pluralsight](https://www.pluralsight.com/) courses to deepen my understanding of data manipulation, analysis, and visualization techniques.
+- ⚡ During my free time, I enjoy exploring web development technologies such as HTML, CSS, and JavaScript on platforms like [FreeCodeCamp](https://www.freecodecamp.org/), honing my skills in front-end development and user interface design.
+
+### Interests
+Outside of work and study, I have diverse interests:
+
+- 🚴‍♂️ Cycling enthusiast: I love exploring new trails and routes on my bike, enjoying the great outdoors and staying active.
+- 📚 Lifelong learner: I'm always seeking new opportunities to broaden my knowledge and skills, whether it's through books, online courses, or hands-on projects.
+- 🎶 Music lover: I have a deep appreciation for music and enjoy attending live concerts and discovering new artists and genres.
+
+### Connect with Me
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/fmaver/) to discuss collaborations, opportunities, or simply to say hello!
